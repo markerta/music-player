@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+    <string name="vol">VOLUME</string>
+    <string name="plus">On</string>
+    <string name="minus">Off</string>
+</resources>
